@@ -1,4 +1,4 @@
-local loaded = true
+local Loaded = true
 local gamez = "Test"
 
 print(loaded)
