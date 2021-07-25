@@ -1,3 +1,3 @@
-local Loaded = true
+local Loaded = "True"
 
 print(Loaded)
